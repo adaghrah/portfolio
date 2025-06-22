@@ -12,25 +12,34 @@ interface Project {
 
 const projects: Project[] = [
   {
-    title: 'AI Design Assistant',
-    description: 'Led the development of an AI-powered design assistant that automates common design tasks and provides real-time suggestions.',
-    technologies: ['React', 'TypeScript', 'OpenAI API', 'WebGL'],
-    image: '/projects/ai-design.png',
-    link: 'https://github.com/ahmaddaghrah/ai-design-assistant'
+    title: 'AI-Native Data Extractor',
+    description: 'Built an intelligent data extraction UI that reduced analyst processing time by 700%. Integrated Azure AI services for adaptive workflows.',
+    technologies: ['React', 'TypeScript', 'Azure AI', 'Material-UI'],
+    image: '/projects/ai-extractor.png'
   },
   {
-    title: 'E-commerce Performance Optimization',
-    description: 'Optimized a high-traffic e-commerce platform, improving load times by 40% and increasing conversion rates.',
-    technologies: ['Next.js', 'Redux Toolkit', 'Performance Monitoring', 'AWS'],
-    image: '/projects/ecommerce-opt.png',
-    link: 'https://github.com/ahmaddaghrah/ecommerce-optimization'
+    title: 'React UI Kit & Design System',
+    description: 'Architected a company-wide component library with Figma design tokens. Reduced delivery time by 40% and ensured brand consistency.',
+    technologies: ['React', 'TypeScript', 'Storybook', 'Figma'],
+    image: '/projects/design-system.png'
   },
   {
-    title: 'Real-time Collaboration Platform',
-    description: 'Built a real-time design collaboration tool with features like live cursors, comments, and version control.',
-    technologies: ['React', 'WebSocket', 'TypeScript', 'Node.js'],
-    image: '/projects/collab-platform.png',
-    link: 'https://github.com/ahmaddaghrah/design-collab'
+    title: 'CEPRES FundScreener',
+    description: 'Developed a responsive financial reporting tool that improved mobile engagement by 70% and enabled instant report generation.',
+    technologies: ['React', 'Material-UI', 'Redux', 'REST APIs'],
+    image: '/projects/fund-screener.png'
+  },
+  {
+    title: 'Multi-Tenant Admin Panel',
+    description: 'Implemented a secure, self-service admin panel with fine-grained permissions that reduced client support dependency by 90%.',
+    technologies: ['React', 'TypeScript', '.NET', 'Azure AD'],
+    image: '/projects/admin-panel.png'
+  },
+  {
+    title: 'Secure AWS File Exchange',
+    description: 'Designed an S3-based file exchange platform with signed URLs and IAM policies, cutting manual operations by 80%.',
+    technologies: ['React', 'AWS S3', 'IAM', 'Security'],
+    image: '/projects/file-exchange.png'
   }
 ];
 

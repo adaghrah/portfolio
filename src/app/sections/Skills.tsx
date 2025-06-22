@@ -10,23 +10,23 @@ interface SkillCategory {
 const skillCategories: SkillCategory[] = [
   {
     name: 'Frontend Development',
-    skills: ['React', 'TypeScript', 'Next.js', 'TailwindCSS', 'Material-UI', 'Framer Motion']
+    skills: ['React', 'TypeScript', 'JavaScript (ES6+)', 'HTML5', 'CSS3', 'SCSS', 'Material-UI', 'Styled Components', 'Bootstrap', 'KendoUI', 'Storybook']
   },
   {
-    name: 'Backend & Cloud',
-    skills: ['Node.js', 'AWS', 'Docker', 'GraphQL', 'REST APIs']
+    name: 'Architecture & Design',
+    skills: ['Design Systems', 'Component Libraries', 'UI Consistency', 'State Management', 'Accessibility', 'Responsive Design']
   },
   {
-    name: 'State & Performance',
-    skills: ['Redux Toolkit', 'React Query', 'Performance Optimization', 'Web Vitals']
+    name: 'Cloud & DevOps',
+    skills: ['AWS', 'Azure', 'Serverless', 'Docker', 'Git', 'GitHub', 'Azure DevOps']
   },
   {
-    name: 'Testing & Quality',
-    skills: ['Jest', 'React Testing Library', 'Cypress', 'CI/CD', 'Code Reviews']
+    name: 'Backend & Data',
+    skills: ['REST APIs', 'GraphQL', 'WebSockets', 'ASP.NET Core', 'Entity Framework']
   },
   {
-    name: 'AI & Tools',
-    skills: ['AI Integration', 'GitHub Copilot', 'Design Systems', 'Figma', 'Agile']
+    name: 'Product Development',
+    skills: ['Agile', 'Scrum', 'Rapid Prototyping', 'A/B Testing', 'Technical Leadership']
   }
 ];
 

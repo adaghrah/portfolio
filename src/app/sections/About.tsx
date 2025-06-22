@@ -15,15 +15,14 @@ export default function About() {
         >
           <h2 className="text-3xl font-bold mb-8">About Me</h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-            I&apos;m a Staff Frontend Engineer with a passion for building exceptional web experiences. 
-            Specializing in React, TypeScript, and AI-powered interfaces, I bring expertise in 
-            creating scalable, performant, and user-centric applications.
+            I&apos;m a Staff-level Frontend Engineer with 5+ years experience developing and architecting 
+            high-impact, scalable web apps in React, TypeScript, and cloud-native environments. 
+            Proven leader in reusable design systems, AI-enhanced workflows, and cross-functional product delivery.
           </p>
           <p className="text-lg text-gray-600 dark:text-gray-300">
-            With a deep understanding of modern web technologies and best practices, 
-            I focus on delivering clean, maintainable code and intuitive user experiences. 
-            I thrive in collaborative environments and enjoy mentoring other developers 
-            while tackling complex technical challenges.
+            Passionate about building intuitive, user-centric experiences with speed and quality. 
+            Comfortable in async, remote-first cultures. I thrive on creating efficient, maintainable 
+            solutions that make a real difference in how people work and interact with technology.
           </p>
         </motion.div>
       </div>
