@@ -15,7 +15,7 @@ export default function About() {
         >
           <h2 className="text-3xl font-bold mb-8">About Me</h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-6">
-            I'm a Staff Frontend Engineer with a passion for building exceptional web experiences. 
+            I&apos;m a Staff Frontend Engineer with a passion for building exceptional web experiences. 
             Specializing in React, TypeScript, and AI-powered interfaces, I bring expertise in 
             creating scalable, performant, and user-centric applications.
           </p>

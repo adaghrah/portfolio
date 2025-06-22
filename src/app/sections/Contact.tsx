@@ -15,7 +15,7 @@ export default function Contact() {
         >
           <h2 className="text-3xl font-bold mb-8">Get in Touch</h2>
           <p className="text-lg text-gray-600 dark:text-gray-300 mb-8">
-            I'm always open to discussing new opportunities and interesting projects.
+            I&apos;m always open to discussing new opportunities and interesting projects.
             Feel free to reach out!
           </p>
           
