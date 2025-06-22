@@ -21,7 +21,7 @@ export default function Contact() {
           
           <div className="space-y-4">
             <a
-              href="mailto:ahmad.daghrah@gmail.com"
+              href="mailto:adaghrah@gmail.com"
               className="inline-flex items-center justify-center w-full md:w-auto px-8 py-3 bg-blue-600 text-white rounded-lg hover:bg-blue-700 transition-colors"
             >
               <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
@@ -32,7 +32,7 @@ export default function Contact() {
             
             <div className="flex justify-center space-x-4">
               <a
-                href="https://github.com/ahmaddaghrah"
+                href="https://github.com/adaghrah"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-gray-600 dark:text-gray-300 hover:text-blue-600 dark:hover:text-blue-400 transition-colors"
