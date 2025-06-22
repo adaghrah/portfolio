@@ -12,6 +12,18 @@ export default function Hero() {
           transition={{ duration: 0.5 }}
           className="text-center"
         >
+          <motion.div
+            initial={{ opacity: 0, scale: 0.5 }}
+            animate={{ opacity: 1, scale: 1 }}
+            transition={{ duration: 0.5 }}
+            className="mb-8"
+          >
+            <img
+              src="/headshot.jpg"
+              alt="Ahmad Daghrah"
+              className="w-40 h-40 rounded-full mx-auto shadow-lg border-4 border-white dark:border-gray-800"
+            />
+          </motion.div>
           <h1 className="text-4xl md:text-6xl font-bold mb-6">
             Staff Frontend Engineer
           </h1>
